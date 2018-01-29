@@ -1,12 +1,12 @@
 <?xml version='1.1' encoding='utf-8'?>
-<widget id="com.realdealagency.sara" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.realdealagency.zomba" version="1.1.2" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
 
-    <name>  سارة عبد السلام  </name>
+    <name>  zomba fitness   </name>
     <description>
-سارة عبد السلام
+zomba fitness  
     </description>
     <author email="ceo@realdealagency.com" href="http://www.realdealagency.com">
-سارة عبد السلام
+zomba fitness  
    
     </author>
     <content src="index.html" />
